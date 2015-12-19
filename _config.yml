@@ -1,0 +1,14 @@
+layout_spectrum: 0.2553191
+typography_spectrum: 0.3957447
+color:
+  saturation: 0.6223148
+  lightness: 0.9907776
+  brandStrength: 0.5
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#F98E00'
+    - '#FDC77F'
+    - '#7F8181'
+  rhythmicContrast: 0.8629646
+name: Rstudio
