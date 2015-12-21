@@ -1,14 +1,29 @@
+name: Rstudio
+favicon: null
 layout_spectrum: 0.2553191
 typography_spectrum: 0.3957447
+title: Radiance Studio
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6223148
-  lightness: 0.9907776
-  brandStrength: 0.5
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#F98E00'
     - '#FDC77F'
     - '#7F8181'
+  brandStrength: 0.5
+  lightness: 0.9907776
+  saturation: 0.6223148
   rhythmicContrast: 0.8629646
-name: Rstudio
+purpose: []
