@@ -1,6 +1,6 @@
 name: Rstudio
 favicon: null
-layout_spectrum: 0.2553191
+layout_spectrum: 1
 typography_spectrum: 0.3957447
 title: Radiance Studio
 cta:
@@ -23,7 +23,7 @@ color:
     - '#FDC77F'
     - '#7F8181'
   brandStrength: 1
-  lightness: 0.9907776
-  saturation: 0.6223148
-  rhythmicContrast: 0.8629646
+  lightness: 1
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
