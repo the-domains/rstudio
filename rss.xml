@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Rstudio]]></title>
-        <description><![CDATA[Rstudio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Radiance Studio]]></title>
+        <description><![CDATA[Radiance Studio]]></description>
+        <link>https://thegrid.ai/rstudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 06:06:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 13:13:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rstudio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome message]]></title>
+            <description><![CDATA[<article><h1>Welcome message</h1><p>Welcome to Radiance Studio</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68ef0614ae0cf2f0029c5eb4edca720aeebf7ff6.png"></article>]]></description>
+            <link>https://thegrid.ai/rstudio/welcome-message/index.html</link>
+            <guid isPermaLink="false">fb5b3481-c016-48c8-ace8-154f5af949da</guid>
+            <pubDate>Tue, 26 Jan 2016 13:13:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/rstudio/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">b824c5ef-8a32-4107-83ff-bbcbd2d319bc</guid>
             <pubDate>Mon, 21 Dec 2015 06:06:38 GMT</pubDate>
         </item>
