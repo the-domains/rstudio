@@ -1,16 +1,22 @@
 ---
-dateModified: '2016-07-09T19:38:09.068Z'
-author: []
-title: ODELL Watch Design
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e396990-9ee0-40e9-ae6c-08e5638c7eed.jpg
-description: Product Design
-datePublished: '2016-07-09T19:38:22.160Z'
-starred: false
-sourcePath: _posts/2016-07-09-odell-watch-design.md
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e396990-9ee0-40e9-ae6c-08e5638c7eed.jpg
+inLanguage: null
+keywords: []
+description: Product Design
+datePublished: '2016-07-09T19:39:27.200Z'
+dateModified: '2016-07-09T19:39:24.092Z'
+title: ODELL Watch Design
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-07-09-odell-watch-design.md
+authors: []
+publisher: null
+starred: false
 _type: MediaObject
 
 ---
