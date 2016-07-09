@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-09T19:10:18.068Z'
-dateModified: '2016-07-09T19:10:10.735Z'
+datePublished: '2016-07-09T20:41:39.028Z'
+dateModified: '2016-07-09T20:40:09.450Z'
 title: Website Design Services
 author:
   - name: ''
@@ -14,9 +14,9 @@ author:
 sourcePath: _posts/2016-07-09-website-design-services.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: website-design-services/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Website Design Services
