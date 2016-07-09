@@ -4,8 +4,15 @@
         <description><![CDATA[Radiance Studio]]></description>
         <link>https://thegrid.ai/rstudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 18:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 18:49:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rstudio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chouquette]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e93d4bc5-84bd-4a2e-8543-2eba08cbc093.jpg">]]></description>
+            <link>https://thegrid.ai/rstudio/chouquette/index.html</link>
+            <guid isPermaLink="false">ef9eef5a-d24e-4e23-9c40-bf5fc09a2771</guid>
+            <pubDate>Sat, 09 Jul 2016 18:49:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fusion Medical Website]]></title>
             <description><![CDATA[<article><h1>Fusion Medical Website</h1><p>Wordpress website for clinic</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba0f1a0b-9b46-4927-a89c-23aeb0e34223.jpg"></article>]]></description>
