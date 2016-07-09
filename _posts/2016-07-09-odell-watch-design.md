@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Product Design
-datePublished: '2016-07-09T20:35:06.152Z'
-dateModified: '2016-07-09T20:34:39.606Z'
+datePublished: '2016-07-09T20:37:54.322Z'
+dateModified: '2016-07-09T20:37:50.911Z'
 title: ODELL Watch Design
 author:
   - name: ''
