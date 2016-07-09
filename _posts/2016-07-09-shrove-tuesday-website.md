@@ -1,14 +1,12 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/319fd82b-20aa-4bce-ae4f-e69fd18bb184.jpg
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: Shrove Tuesday Wordpress website design
-datePublished: '2016-07-09T18:38:54.402Z'
-dateModified: '2016-07-09T18:38:27.814Z'
+datePublished: '2016-07-09T18:42:33.808Z'
+dateModified: '2016-07-09T18:42:05.047Z'
 title: Shrove Tuesday Website
 author:
   - name: ''
@@ -17,7 +15,8 @@ sourcePath: _posts/2016-07-09-shrove-tuesday-website.md
 authors: []
 publisher: null
 starred: false
-_type: MediaObject
+url: shrove-tuesday-website/index.html
+_type: Article
 
 ---
 # Shrove Tuesday Website
