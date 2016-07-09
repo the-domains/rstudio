@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Wordpress website for clinic
-datePublished: '2016-07-09T18:45:18.003Z'
-dateModified: '2016-07-09T18:45:05.944Z'
+datePublished: '2016-07-09T18:47:01.334Z'
+dateModified: '2016-07-09T18:45:27.066Z'
 title: Fusion Medical Website
 author:
   - name: ''
