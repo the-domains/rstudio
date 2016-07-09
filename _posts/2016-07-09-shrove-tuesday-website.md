@@ -1,20 +1,23 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/319fd82b-20aa-4bce-ae4f-e69fd18bb184.jpg
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-07-09T18:17:29.385Z'
-dateModified: '2016-07-09T18:17:14.049Z'
+description: Shrove Tuesday Wordpress website design
+datePublished: '2016-07-09T18:38:54.402Z'
+dateModified: '2016-07-09T18:38:27.814Z'
 title: Shrove Tuesday Website
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-07-09-shrove-tuesday-website.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-09-shrove-tuesday-website.md
-url: shrove-tuesday-website/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Shrove Tuesday Website
