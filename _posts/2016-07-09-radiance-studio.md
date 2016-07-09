@@ -10,8 +10,8 @@ description: >-
   but highly skilled team, approachable and easy to work with. Our aim is to
   form reliable, affordable, valuable, long-term relationship with our clients.
   We humbly present to you our achievements
-datePublished: '2016-07-09T19:35:11.074Z'
-dateModified: '2016-07-09T19:35:05.063Z'
+datePublished: '2016-07-09T20:34:53.839Z'
+dateModified: '2016-07-09T20:34:33.631Z'
 title: About Us
 author:
   - name: ''
@@ -19,7 +19,7 @@ author:
 sourcePath: _posts/2016-07-09-radiance-studio.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: radiance-studio/index.html
 _type: Article
 
