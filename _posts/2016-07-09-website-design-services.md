@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-09T20:41:39.028Z'
-dateModified: '2016-07-09T20:40:09.450Z'
+datePublished: '2016-07-09T20:43:22.579Z'
+dateModified: '2016-07-09T20:43:07.439Z'
 title: Website Design Services
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-07-09-website-design-services.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: website-design-services/index.html
 _type: Article
 
