@@ -4,15 +4,17 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-07-09T18:43:39.742Z'
-dateModified: '2016-07-09T18:43:23.829Z'
-title: ''
-author: []
+description: Wordpress website for clinic
+datePublished: '2016-07-09T18:45:18.003Z'
+dateModified: '2016-07-09T18:45:05.944Z'
+title: Fusion Medical Website
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-07-09-fusion-medical.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-09-fusion-medical.md
 url: fusion-medical/index.html
 _type: Article
 
